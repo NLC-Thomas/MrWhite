@@ -1,0 +1,18 @@
+-- Streamer info --
+
+- Dezgames
+	Minimal resolution: 160p
+	
+- QuickyBaby
+	Minimal resolution: 160p30
+	
+- skill4ltu
+	Minimal resolution: 160p30
+	
+- Dakilzor
+	Minimal resolution: 160p30
+	
+- Orzanel
+	Minimal resolution: 160p
+	
+	
