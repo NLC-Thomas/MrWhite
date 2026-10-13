@@ -1,0 +1,9 @@
+Brave       https://get-brave.com/brave_browser/
+Chrome      https://www.google.com/chrome/
+Chromium    
+Thorium     https://thorium.rocks/
+Helium      https://helium.computer/
+Opera       https://www.opera.com/opera
+Vivaldi     https://vivaldi.com/download/
+Epic        https://epicbrowser.com/
+Arc         https://arc.net/
