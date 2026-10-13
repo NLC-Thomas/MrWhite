@@ -15,4 +15,5 @@
 - Orzanel
 	Minimal resolution: 160p
 	
-	
+- Marty_Vole
+	Minimal resolution: 160p
